@@ -1,0 +1,6 @@
+@Cagang91226_HostAddress = http://localhost:5007
+
+GET {{Cagang91226_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
